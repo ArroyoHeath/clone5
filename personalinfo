@@ -1,5 +1,5 @@
 name = input(prompt = "What is your name?")
 height = input(prompt = "What is your height in inches?")
 age = input(prompt = "How old are you?")
-output = ("Your name is " + name + ", you are " + age + "years old, and you are " + height + " inches tall.")
+output = ("Your name is " , name , ", you are " , age ,  "years old, and you are " , height , " inches tall.")
 print(output)
